@@ -2,7 +2,7 @@
 #   
 ####  Deve ser iniciado o Servidor primariamente logo após o cliente
 #  
-<img, src="images/ftp.png">
+<img src="images/ftp.png">
 #
 #####   o servidor disponibiliza uma lista de possiveis dowload ultilizado TCP    
 #####   o cliente consegue realizar Dowload/Upload de arquivos do servidor
